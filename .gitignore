@@ -16,6 +16,12 @@
 # Mono auto generated files
 mono_crash.*
 
+# GPUCache
+GPUCache/
+
+# VTune Profiler Results
+VTune Profiler Results/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
